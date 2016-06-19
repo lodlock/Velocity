@@ -31,7 +31,6 @@
   </scripts>
   <objects name="objects">
     <object>objects\obj_velocity</object>
-    <object>objects\obj_save_button</object>
     <object>objects\obj_road</object>
     <object>objects\obj_trail_right</object>
     <object>objects\obj_trail_left</object>
@@ -42,6 +41,8 @@
     <object>objects\obj_load</object>
     <object>objects\obj_new</object>
     <object>objects\obj_resume</object>
+    <object>objects\obj_mainmenu</object>
+    <object>objects\obj_exitgame</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room2</room>
