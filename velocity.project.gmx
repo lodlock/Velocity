@@ -16,20 +16,37 @@
     <sprite>sprites\spr_trail_up</sprite>
     <sprite>sprites\sprite4</sprite>
     <sprite>sprites\spr_road</sprite>
+    <sprite>sprites\spr_save</sprite>
+    <sprite>sprites\spr_load</sprite>
+    <sprite>sprites\spr_new</sprite>
+    <sprite>sprites\spr_resume</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_road</background>
+    <background>background\bkg_pasue</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\script0.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\obj_velocity</object>
+    <object>objects\obj_save_button</object>
     <object>objects\obj_road</object>
     <object>objects\obj_trail_right</object>
     <object>objects\obj_trail_left</object>
     <object>objects\obj_trail_up</object>
+    <object>objects\obj_playerspawn</object>
+    <object>objects\obj_save</object>
+    <object>objects\obj_menu</object>
+    <object>objects\obj_load</object>
+    <object>objects\obj_new</object>
+    <object>objects\obj_resume</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\room2</room>
     <room>rooms\room0</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
