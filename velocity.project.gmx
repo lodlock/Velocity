@@ -20,6 +20,8 @@
     <sprite>sprites\spr_load</sprite>
     <sprite>sprites\spr_new</sprite>
     <sprite>sprites\spr_resume</sprite>
+    <sprite>sprites\spr_main_menu</sprite>
+    <sprite>sprites\spr_save_exit</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_road</background>
