@@ -161,7 +161,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0.125</string>
+            <string>global.speedrate</string>
           </argument>
         </arguments>
       </action>
@@ -315,7 +315,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0.125</string>
+            <string>global.speedrate</string>
           </argument>
         </arguments>
       </action>
@@ -441,7 +441,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0.125</string>
+            <string>global.speedrate</string>
           </argument>
         </arguments>
       </action>
@@ -623,7 +623,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0.125</string>
+            <string>global.speedrate</string>
           </argument>
         </arguments>
       </action>
@@ -789,7 +789,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0.5</string>
+            <string>global.speedrate+0.5</string>
           </argument>
         </arguments>
       </action>
