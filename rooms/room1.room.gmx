@@ -56,6 +56,8 @@
     <instance objName="obj_mainmenu" x="96" y="320" name="inst_4B3EBAF6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_load" x="416" y="320" name="inst_FDE97B3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_exitgame" x="96" y="480" name="inst_85CE15C4" locked="0" code="" scaleX="2.25" scaleY="1.75" colour="4294967295" rotation="0"/>
+    <instance objName="obj_upgrade" x="704" y="160" name="inst_0D3BB09A" locked="0" code="" scaleX="2.25" scaleY="2.13333344459534" colour="4294967295" rotation="0"/>
+    <instance objName="obj_score" x="64" y="288" name="inst_CCDBE134" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

@@ -22,6 +22,7 @@
     <sprite>sprites\spr_resume</sprite>
     <sprite>sprites\spr_main_menu</sprite>
     <sprite>sprites\spr_save_exit</sprite>
+    <sprite>sprites\spr_upgrade</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_road</background>
@@ -45,6 +46,8 @@
     <object>objects\obj_resume</object>
     <object>objects\obj_mainmenu</object>
     <object>objects\obj_exitgame</object>
+    <object>objects\obj_upgrade</object>
+    <object>objects\obj_score</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room2</room>
