@@ -32,6 +32,7 @@
     <sprite>sprites\spr_red</sprite>
     <sprite>sprites\spr_civ_up</sprite>
     <sprite>sprites\spr_walkingciv_1</sprite>
+    <sprite>sprites\spr_collect</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_road</background>
@@ -67,6 +68,7 @@
     <object>objects\obj_civ2</object>
     <object>objects\object22</object>
     <object>objects\obj_normciv</object>
+    <object>objects\obj_collect</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room2</room>
