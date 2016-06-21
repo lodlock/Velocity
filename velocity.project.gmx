@@ -23,6 +23,14 @@
     <sprite>sprites\spr_main_menu</sprite>
     <sprite>sprites\spr_save_exit</sprite>
     <sprite>sprites\spr_upgrade</sprite>
+    <sprite>sprites\spr_civ_neut</sprite>
+    <sprite>sprites\spr_civ_Run</sprite>
+    <sprite>sprites\spr_civ_left</sprite>
+    <sprite>sprites\spr_civ2</sprite>
+    <sprite>sprites\spr_civ1</sprite>
+    <sprite>sprites\spr_terrorist</sprite>
+    <sprite>sprites\spr_red</sprite>
+    <sprite>sprites\spr_civ_up</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_road</background>
@@ -34,6 +42,7 @@
   </scripts>
   <objects name="objects">
     <object>objects\obj_velocity</object>
+    <object>objects\obj_civ_velocity</object>
     <object>objects\obj_road</object>
     <object>objects\obj_trail_right</object>
     <object>objects\obj_trail_left</object>
@@ -48,9 +57,18 @@
     <object>objects\obj_exitgame</object>
     <object>objects\obj_upgrade</object>
     <object>objects\obj_score</object>
+    <object>objects\obj_intro</object>
+    <object>objects\obj_tutorial</object>
+    <object>objects\obj_terrorist</object>
+    <object>objects\obj_explode</object>
+    <object>objects\obj_civ1</object>
+    <object>objects\obj_civ2</object>
+    <object>objects\object22</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room2</room>
+    <room>rooms\room3</room>
+    <room>rooms\room4</room>
     <room>rooms\room0</room>
     <room>rooms\room1</room>
   </rooms>
