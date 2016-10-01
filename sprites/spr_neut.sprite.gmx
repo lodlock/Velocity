@@ -7,10 +7,10 @@
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>34</bbox_left>
-  <bbox_right>96</bbox_right>
-  <bbox_top>10</bbox_top>
-  <bbox_bottom>127</bbox_bottom>
+  <bbox_left>42</bbox_left>
+  <bbox_right>98</bbox_right>
+  <bbox_top>1</bbox_top>
+  <bbox_bottom>111</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
@@ -28,5 +28,12 @@
     <frame index="5">images\spr_neut_5.png</frame>
     <frame index="6">images\spr_neut_6.png</frame>
     <frame index="7">images\spr_neut_7.png</frame>
+    <frame index="8">images\spr_neut_8.png</frame>
+    <frame index="9">images\spr_neut_9.png</frame>
+    <frame index="10">images\spr_neut_10.png</frame>
+    <frame index="11">images\spr_neut_11.png</frame>
+    <frame index="12">images\spr_neut_12.png</frame>
+    <frame index="13">images\spr_neut_13.png</frame>
+    <frame index="14">images\spr_neut_14.png</frame>
   </frames>
 </sprite>

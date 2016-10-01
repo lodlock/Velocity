@@ -44,6 +44,9 @@
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
   </scripts>
+  <fonts name="fonts">
+    <font>fonts\Velocity</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_velocity</object>
     <object>objects\obj_civ_velocity</object>
